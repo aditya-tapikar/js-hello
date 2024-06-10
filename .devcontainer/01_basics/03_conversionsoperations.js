@@ -34,10 +34,41 @@ let isLoggedIn="aditya"
 
 let booleanisLoggedIn=Boolean(isLoggedIn)
 
-console.log(typeof isLoggedIn)
-console.log(booleanisLoggedIn)
+//console.log(typeof isLoggedIn)
+//console.log(booleanisLoggedIn)
 
 // boolean conversions
 
 // 1->true  0->false
 // "string"->true  ""->false
+
+
+//*****************opearations**************/
+//let value= 3
+
+//let negvalue=-value
+
+//console.log(negvalue)
+
+//console.log(2+2)
+
+//console.log(value+10)
+
+let str1="hello"
+let str2=" aditya"
+
+str3=str1+str2
+
+//console.log(str3)
+
+//console.log("1"+2)
+//console.log(1+"2")
+//console.log(1+"2"+2)
+//console.log(1+2+"2")
+
+
+
+let gamecounter=333
+gamecounter++;
+
+console.log(gamecounter)
